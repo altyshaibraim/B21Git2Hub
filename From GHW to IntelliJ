@@ -1,1 +1,8 @@
+              How to add Remote Repo to INtelliJ Project:
 Add File -> name -> modify file content -> Commit New File(down the page)
+
+              On IntelliJ
+VCS - Update Project -> OK 
+!!! If it went succesfully, then on log there should be new added commit
+
+
