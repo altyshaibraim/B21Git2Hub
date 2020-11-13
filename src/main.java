@@ -14,6 +14,8 @@ public class main {
         System.out.println("!!! To see the history of commits, click on Version Control on the left bottom -> Log" );
         System.out.println("!!! To edit a commit, right click on selected commit -> Edit Commit Msg");
 
+        System.out.println("              To link GitHub account to IntelliJ:");
+        System.out.println("File -> Settings -> GitHub -> Add Account -> Login");
 
     }
 }
