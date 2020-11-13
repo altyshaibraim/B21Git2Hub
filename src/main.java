@@ -1,5 +1,8 @@
 public class main {
     public static void main(String[] args) {
+        System.out.println("             What happens when Git configures with IntelliJ:");
+        System.out.println("An IntelliJ Project becomes Git Repo.");
+        System.out.println("");
         System.out.println("             How to turn IntelliJ Project into Git Repo:");
         System.out.println("1. Create Project. \n 2. Create new Class(File) under src package.");
         System.out.println("3. On the menu bar choose VCS. \n 4. Enable Version Control Integration (if it's not there," +
@@ -9,5 +12,8 @@ public class main {
         System.out.println("5. After you modified the file, to commit there a green check button on the right top corner" +
                 " OR VSC on the menu bar -> Commit");
         System.out.println("!!! To see the history of commits, click on Version Control on the left bottom -> Log" );
+        System.out.println("!!! To edit a commit, right click on selected commit -> Edit Commit Msg");
+
+
     }
 }
