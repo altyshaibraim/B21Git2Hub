@@ -17,5 +17,8 @@ public class main {
         System.out.println("              To link GitHub account to IntelliJ:");
         System.out.println("File -> Settings -> GitHub -> Add Account -> Login");
 
+        System.out.println("              To share Project on GitHub Website:");
+        System.out.println("VCS -> import into Version Control -> Share Project on GitHub -> naming -> Share");
+
     }
 }
