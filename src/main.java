@@ -13,12 +13,14 @@ public class main {
                 " OR VSC on the menu bar -> Commit");
         System.out.println("!!! To see the history of commits, click on Version Control on the left bottom -> Log" );
         System.out.println("!!! To edit a commit, right click on selected commit -> Edit Commit Msg");
-
+        System.out.println("");
         System.out.println("              To link GitHub account to IntelliJ:");
         System.out.println("File -> Settings -> GitHub -> Add Account -> Login");
-
+        System.out.println("");
         System.out.println("              To share Project on GitHub Website:");
         System.out.println("VCS -> import into Version Control -> Share Project on GitHub -> naming -> Share");
-
+        System.out.println("");
+        System.out.println("              To push local commit to remote Repo:");
+        System.out.println("VCS -> Git -> Push(green upright arrow) -> Select commit -> Push");
     }
 }
